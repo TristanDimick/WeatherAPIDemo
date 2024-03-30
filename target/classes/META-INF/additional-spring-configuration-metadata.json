@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "apiKey",
+  "type": "java.lang.String",
+  "description": "API Key for open weather API"
+}]}
